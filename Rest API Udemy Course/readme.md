@@ -1,4 +1,4 @@
-# .Net_training
+#  Rest API Udemy Course
 Microsoft Azure Database credential
 Server = demotest12345.database.windows.net
 Username = rku-2022
