@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RoyalVilla_API.props" />
+</Project>

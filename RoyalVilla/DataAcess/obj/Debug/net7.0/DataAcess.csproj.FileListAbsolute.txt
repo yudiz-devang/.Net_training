@@ -1,0 +1,14 @@
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\DataAcess\bin\Debug\net7.0\DataAcess.deps.json
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\DataAcess\bin\Debug\net7.0\DataAcess.runtimeconfig.json
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\DataAcess\bin\Debug\net7.0\DataAcess.dll
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\DataAcess\bin\Debug\net7.0\DataAcess.pdb
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\DataAcess\obj\Debug\net7.0\DataAcess.csproj.AssemblyReference.cache
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\DataAcess\obj\Debug\net7.0\DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\DataAcess\obj\Debug\net7.0\DataAcess.AssemblyInfoInputs.cache
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\DataAcess\obj\Debug\net7.0\DataAcess.AssemblyInfo.cs
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\DataAcess\obj\Debug\net7.0\DataAcess.csproj.CoreCompileInputs.cache
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\DataAcess\obj\Debug\net7.0\DataAcess.dll
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\DataAcess\obj\Debug\net7.0\refint\DataAcess.dll
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\DataAcess\obj\Debug\net7.0\DataAcess.pdb
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\DataAcess\obj\Debug\net7.0\DataAcess.genruntimeconfig.cache
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\DataAcess\obj\Debug\net7.0\ref\DataAcess.dll
