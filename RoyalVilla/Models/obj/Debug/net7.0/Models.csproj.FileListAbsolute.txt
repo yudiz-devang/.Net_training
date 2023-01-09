@@ -1,0 +1,15 @@
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\Models\bin\Debug\net7.0\Models.deps.json
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\Models\bin\Debug\net7.0\Models.dll
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\Models\bin\Debug\net7.0\Models.pdb
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\Models\bin\Debug\net7.0\DataAcess.dll
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\Models\bin\Debug\net7.0\DataAcess.pdb
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\Models\obj\Debug\net7.0\Models.csproj.AssemblyReference.cache
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\Models\obj\Debug\net7.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\Models\obj\Debug\net7.0\Models.AssemblyInfoInputs.cache
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\Models\obj\Debug\net7.0\Models.AssemblyInfo.cs
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\Models\obj\Debug\net7.0\Models.csproj.CoreCompileInputs.cache
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\Models\obj\Debug\net7.0\Models.csproj.CopyComplete
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\Models\obj\Debug\net7.0\Models.dll
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\Models\obj\Debug\net7.0\refint\Models.dll
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\Models\obj\Debug\net7.0\Models.pdb
+C:\Yudiz\Devang\W\Blazor-Practice\RoyalVilla\Models\obj\Debug\net7.0\ref\Models.dll

@@ -9,9 +9,17 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DbFirst_Azure_Entity
 build_property.RootNamespace = DbFirst_Azure_Entity
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Yudiz Solutions\Source\Repos\.Net_training\Rest API Udemy Course\DbFirst_Azure_Entity\DbFirst_Azure_Entity\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\Yudiz Solutions\Source\Repos\.Net_training\Rest API Udemy Course\DbFirst_Azure_Entity\DbFirst_Azure_Entity
+=======
+build_property.ProjectDir = C:\Users\Yudiz Solutions\Source\Repos\yudiz-devang\.Net_training\Rest API Udemy Course\DbFirst_Azure_Entity\DbFirst_Azure_Entity\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Yudiz Solutions\Source\Repos\yudiz-devang\.Net_training\Rest API Udemy Course\DbFirst_Azure_Entity\DbFirst_Azure_Entity
+>>>>>>> 79266793a7700a9b07d3efb9feb7344616d360b9
 build_property._RazorSourceGeneratorDebug = 
